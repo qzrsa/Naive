@@ -19,8 +19,8 @@ init_var() {
   naive_crt=""
   naive_key=""
   naive_port=444
-  naive_username="root"
-  naive_password="password"
+  naive_username="sysadmin"
+  naive_password="sysadmin"
   naive_auth=""
 }
 echo_content() {
